@@ -215,4 +215,4 @@ WIRIS Desktop is offered as a full free version, providing all features and upda
 Ready to enhance your mathematical skills? **Download WIRIS Desktop now and unlock all its powerful features for free!**
 
 ---
-**Last updated:** 2026-11-14 16:31:35 UTC
+**Last updated:** 2026-11-14 21:13:39 UTC
